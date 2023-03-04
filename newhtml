@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <title>honih</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <style>
+      body{
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>这是一个新页面！</h1>
+  </body>
+</html>
